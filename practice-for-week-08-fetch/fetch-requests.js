@@ -5,7 +5,7 @@ Paste your code for fetch requests here once you finish each task.
 
 /* =============== 1. Print the status code of the response =============== */
 
-// Your code here
+// 200
 
 
 
